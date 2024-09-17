@@ -1,2 +1,2 @@
 # suwen-graphics
-This repo contains code for suwengraphics.com
+This repo will contain code for suwengraphics.com
